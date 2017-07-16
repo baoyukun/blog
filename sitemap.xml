@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.baoyukun.win/uncategorized/hello-world/</loc>
+    
+    <lastmod>2017-07-16T05:45:44.879Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.baoyukun.win/google6529fc96efe4f8c6.html</loc>
     
     <lastmod>2017-07-16T04:15:58.622Z</lastmod>
@@ -23,16 +30,9 @@
   </url>
   
   <url>
-    <loc>http://blog.baoyukun.win/categories/test</loc>
+    <loc>http://blog.baoyukun.win/categories/test/</loc>
     
     <lastmod>2017-07-15T22:23:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.baoyukun.win/uncategorized/hello-world</loc>
-    
-    <lastmod>2017-07-15T17:44:49.028Z</lastmod>
     
   </url>
   

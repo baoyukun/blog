@@ -3,15 +3,30 @@
 
 
     
+  <url>
+    <loc>http://blog.baoyukun.win/uncategorized/hello-world/</loc>
+    <lastmod>2017-07-16T05:45:44.879Z</lastmod>
+    <data>
+        <display>
+        <title>世界，早安</title>
+        <pubTime>2017-07-15T17:44:49.028Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
     
     
   <url>
-    <loc>http://blog.baoyukun.win/categories/test</loc>
+    <loc>http://blog.baoyukun.win/categories/test/</loc>
     <lastmod>2017-07-15T22:23:50.000Z</lastmod>
     <data>
         <display>
-        <title>test</title>
+        <title>终于成功了</title>
         <pubTime>2017-07-15T22:23:50.000Z</pubTime>
         
         <tag>tag1</tag>
@@ -25,21 +40,6 @@
              
               <breadCrumb title="categories" url="http://blog.baoyukun.win/categories/categories/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.baoyukun.win/uncategorized/hello-world</loc>
-    <lastmod>2017-07-15T17:44:49.028Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-07-15T17:44:49.028Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
