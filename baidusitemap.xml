@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>http://blog.baoyukun.win/categories/test</loc>
+    <lastmod>2017-07-15T22:23:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>test</title>
+        <pubTime>2017-07-15T22:23:50.000Z</pubTime>
+        
+        <tag>tag1</tag>
+         
+        <tag>tag2</tag>
+         
+        <tag>tag3</tag>
+         
+         
+           
+             
+              <breadCrumb title="categories" url="http://blog.baoyukun.win/categories/categories/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.baoyukun.win/uncategorized/hello-world</loc>
+    <lastmod>2017-07-15T17:44:49.028Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-07-15T17:44:49.028Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
