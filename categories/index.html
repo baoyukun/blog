@@ -13,6 +13,13 @@
 
 
 
+  
+  
+    
+    
+  <script src="/lib/pace/pace.min.js?v=1.0.2"></script>
+  <link href="/lib/pace/pace-theme-minimal.min.css?v=1.0.2" rel="stylesheet">
+
 
 
 
@@ -79,7 +86,7 @@
 <link href="/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Programming" />
+  <meta name="keywords" content="鲍煜坤的博客" />
 
 
 
@@ -99,16 +106,16 @@
 
 
 
-<meta name="description" content="尽付无言高歌">
+<meta name="description" content="尽付无言高歌！">
 <meta property="og:type" content="website">
 <meta property="og:title" content="categories">
 <meta property="og:url" content="http://blog.baoyukun.win/categories/index.html">
 <meta property="og:site_name" content="Je vole">
-<meta property="og:description" content="尽付无言高歌">
+<meta property="og:description" content="尽付无言高歌！">
 <meta property="og:updated_time" content="2017-07-16T01:26:24.754Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="categories">
-<meta name="twitter:description" content="尽付无言高歌">
+<meta name="twitter:description" content="尽付无言高歌！">
 
 
 
@@ -181,7 +188,7 @@
 
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans" >
 
   
   
@@ -190,7 +197,7 @@
 
   <div class="container sidebar-position-left page-post-detail ">
     <div class="headband"></div>
-
+    
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-wrapper">
   <div class="site-meta ">
@@ -204,7 +211,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle">Pas de grand désir, pas de grand talent.</p>
+        <h1 class="site-subtitle" itemprop="description">Pas de grand désir, pas de grand talent.</h1>
       
   </div>
 
@@ -319,7 +326,7 @@
   <div id="posts" class="posts-expand">
   <header class="post-header">
 
-	<h1 class="post-title" itemprop="name headline">categories</h1>
+	<h2 class="post-title" itemprop="name headline">categories</h2>
 
 
 
@@ -329,11 +336,15 @@
     
       <div class="category-all-page">
         <div class="category-all-title">
-            目前共计 1 个分类
+            目前共计 2 个分类
         </div>
         <div class="category-all">
-          <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/categories/">categories</a><span class="category-list-count">1</span></li></ul>
+          <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Hexo/">Hexo</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/categories/">categories</a><span class="category-list-count">1</span></li></ul>
         </div>
+        <blockquote class="blockquote-center">
+          <p>There is no such thing as a great talent without great will power.</p>
+          <p>Balzac</p>
+        </blockquote>
       </div>
     
   </div>
@@ -374,15 +385,15 @@
                alt="鲍煜坤" />
           <p class="site-author-name" itemprop="name">鲍煜坤</p>
            
-              <p class="site-description motion-element" itemprop="description">尽付无言高歌</p>
-          
+              <p class="site-description motion-element" itemprop="description"></p>
+           
         </div>
         <nav class="site-state motion-element">
 
           
             <div class="site-state-item site-state-posts">
               <a href="/archives/">
-                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-count">3</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -393,7 +404,7 @@
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">1</span>
+                <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -404,7 +415,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">5</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -526,7 +537,7 @@
   &copy; 
   <span itemprop="copyrightYear">2017</span>
   <span class="with-love">
-    <i class="fa fa-heart"></i>
+    <i class="fa fa-tint"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">鲍煜坤</span>
 </div>
@@ -541,15 +552,15 @@
     <span class="site-uv">
       <i class="fa fa-user"></i>
       <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-      
+      位访客
     </span>
   
 
   
     <span class="site-pv">
-      <i class="fa fa-eye"></i>
+      <i class="fa fa-map-marker"></i>
       <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-      
+      次访问
     </span>
   
 </div>
@@ -1112,6 +1123,21 @@
 
 
   
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
 
   
 
@@ -1120,6 +1146,9 @@
 
 
   
+  <script type="text/javascript" src="/js/src/js.cookie.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/js/src/scroll-cookie.js?v=5.1.1"></script>
+
 
   
 

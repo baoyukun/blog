@@ -434,7 +434,7 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 700px;
+  width: 800px;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
@@ -446,11 +446,16 @@ body {
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: 800px;
 }
 @media (min-width: 1600px) {
   .container .main-inner {
     width: 900px;
+  }
+}
+@media (max-width: 767px) {
+  .main-inner {
+    width: auto;
   }
 }
 .footer {
@@ -463,7 +468,7 @@ body {
 .footer-inner {
   box-sizing: border-box;
   margin: 20px auto;
-  width: 700px;
+  width: 800px;
 }
 @media (min-width: 1600px) {
   .container .footer-inner {
@@ -663,7 +668,7 @@ pre .javascript .function {
   display: block;
   width: 100%;
   height: 24px;
-  opacity: 0.2;
+  opacity: 0.4;
   background-repeat: no-repeat;
   background-position: 0 -6px;
   background-size: 22px 22px;
@@ -689,6 +694,7 @@ pre .javascript .function {
 .blockquote-center div,
 .page-home .post-type-quote blockquote div,
 .page-post-detail .post-type-quote blockquote div {
+  font-size: 16px;
   text-align: center;
 }
 .post .post-body .group-picture img {
@@ -1644,6 +1650,9 @@ pre .javascript .function {
   background-color: #f9f9f9;
   list-style: none;
 }
+.post-wordcount {
+  display: inline-block;
+}
 .sidebar {
   position: fixed;
   right: 0;
@@ -1905,7 +1914,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9585e3;
+  background: #14ffb1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3011,6 +3020,65 @@ hr {
     text-align: center;
   }
 }
-.site-description {
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 14px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 14px rgba(202,203,204,0.5);
+}
+.header {
+  background: url("/images/header-bk.jpg");
+}
+.site-meta {
+  float: none;
+}
+.menu {
+  float: none;
+}
+.logo-line-before,
+.logo-line-after {
+  display: none;
+}
+.menu .menu-item a {
+  font-size: 14px;
+  color: #0f2e41;
+  border-radius: 4px;
+}
+.site-meta {
+  margin-left: 0px;
+  text-align: center;
+}
+.site-meta .site-title {
+  font-size: 30px;
+  font-family: 'Comic Sans MS', sans-serif;
+  color: #222;
+}
+.footer {
+  background: none;
+  font-size: 14px;
+}
+.footer-inner {
+  font-family: 'Comic Sans MS', sans-serif;
+  text-align: center;
+  color: #4c618f;
+}
+.post-button {
+  margin-top: 30px;
+  text-align: center;
+}
+.post-button .btn {
   color: #fff;
+  font-size: 15px;
+  background: #686868;
+  border-radius: 16px;
+  line-height: 2;
+  margin: 0 4px 8px 4px;
+  padding: 0 20px;
+}
+.post-button a {
+  border-bottom: 1px solid #666;
+}
+.post-button a:hover {
+  color: #7784ba;
 }

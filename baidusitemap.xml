@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://blog.baoyukun.win/Hexo/hexo-next-one/</loc>
+    <lastmod>2017-07-17T15:05:29.312Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo-NexT搭建个人博客（一）</title>
+        <pubTime>2016-09-03T11:25:24.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Next</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://blog.baoyukun.win/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.baoyukun.win/uncategorized/%E4%B8%96%E7%95%8C%E6%97%A9%E5%AE%89/</loc>
     <lastmod>2017-07-16T23:02:45.595Z</lastmod>
     <data>
@@ -18,15 +40,13 @@
     </url>
 
     
-    
-    
   <url>
     <loc>http://blog.baoyukun.win/categories/%E7%BB%88%E4%BA%8E%E6%88%90%E5%8A%9F%E4%BA%86/</loc>
-    <lastmod>2017-07-15T22:23:50.000Z</lastmod>
+    <lastmod>2017-07-16T04:23:50.000Z</lastmod>
     <data>
         <display>
         <title>终于成功了</title>
-        <pubTime>2017-07-15T22:23:50.000Z</pubTime>
+        <pubTime>2017-07-16T04:23:50.000Z</pubTime>
         
         <tag>tag1</tag>
          
@@ -43,4 +63,6 @@
     </data>
     </url>
 
+    
+    
 </urlset>

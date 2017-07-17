@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.baoyukun.win/Hexo/hexo-next-one/</loc>
+    
+    <lastmod>2017-07-17T15:05:29.312Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.baoyukun.win/uncategorized/%E4%B8%96%E7%95%8C%E6%97%A9%E5%AE%89/</loc>
     
     <lastmod>2017-07-16T23:02:45.595Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.baoyukun.win/categories/%E7%BB%88%E4%BA%8E%E6%88%90%E5%8A%9F%E4%BA%86/</loc>
+    
+    <lastmod>2017-07-16T04:23:50.000Z</lastmod>
     
   </url>
   
@@ -19,13 +33,6 @@
     <loc>http://blog.baoyukun.win/categories/index.html</loc>
     
     <lastmod>2017-07-16T01:26:24.754Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.baoyukun.win/categories/%E7%BB%88%E4%BA%8E%E6%88%90%E5%8A%9F%E4%BA%86/</loc>
-    
-    <lastmod>2017-07-15T22:23:50.000Z</lastmod>
     
   </url>
   
