@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[终于成功了]]></title>
       <url>/categories/%E7%BB%88%E4%BA%8E%E6%88%90%E5%8A%9F%E4%BA%86/</url>
-      <content type="html"><![CDATA[<blockquote>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="/assets/css/DPlayer.min.css"><script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 </blockquote>
 <a id="more"></a>
@@ -41,7 +41,7 @@
     <entry>
       <title><![CDATA[世界，早安]]></title>
       <url>/uncategorized/%E4%B8%96%E7%95%8C%E6%97%A9%E5%AE%89/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="/assets/css/DPlayer.min.css"><script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
@@ -58,13 +58,28 @@
     <entry>
       <title><![CDATA[Hexo-NexT搭建个人博客（一）]]></title>
       <url>/Hexo/hexo-next-one/</url>
-      <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://hexo.io/zh-cn/" target="_blank" rel="external">Hexo</a> 是一个快速、简洁且高效的静态站点生成框架，它基于 <a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a> 。 它有以下特点：</p>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="/assets/css/DPlayer.min.css"><script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://hexo.io/zh-cn/" target="_blank" rel="external">Hexo</a> 是一个快速、简洁且高效的静态站点生成框架，它基于 <a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a> 。 它有以下特点：</p>
 <ul>
 <li><i class="fa fa-bolt"></i><h6 style="display: inline;">　超快速度</h6><br><i>Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。</i></li>
 <li><i class="fa fa-pencil"></i><h6 style="display: inline;">　支持Markdown</h6><br><i>Hexo 支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件。</i></li>
 <li><i class="fa fa-cloud-upload"></i><h6 style="display: inline;">　一键部署</h6><br><i>只需一条指令即可部署到Github Pages，或其他网站</i></li>
 <li><i class="fa fa-cog"></i><h6 style="display: inline;">　丰富的插件</h6><br><i>Hexo 拥有强大的插件系统，安装插件可以让 Hexo 支持 Jade, CoffeeScript。</i></li>
 </ul>
+<div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer0"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 0,
+				music: {
+					title: "HUSH",
+					author: "Lasse Lindh",
+					url: "http://opj0cbfmf.bkt.clouddn.com/Part.3%20Lasse%20Lindh%20-%20Hush.mp3",
+					pic: "http://opj0cbfmf.bkt.clouddn.com/hush.jpg",
+				}
+			});
+		</script>
 <p><img src="/img/pfasdfas.png" alt="bg-picture" title="good luck"></p>
 <a id="more"></a>
 <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>安装 Hexo 只需几分钟时间，若你在安装过程中遇到问题或无法找到解决方式，请<a href="https://neveryu.github.io/guestbook/" target="_blank" rel="external">提交问题</a>，我会尽力解决你的问题。</p>
