@@ -87,7 +87,7 @@
     <link href="http://blog.baoyukun.win/Hexo/hexo-next-one/"/>
     <id>http://blog.baoyukun.win/Hexo/hexo-next-one/</id>
     <published>2016-09-03T11:25:24.000Z</published>
-    <updated>2017-07-19T13:42:41.626Z</updated>
+    <updated>2017-07-19T22:03:36.357Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="/assets/css/DPlayer.min.css"><script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><a href="https://hexo.io/zh-cn/" target="_blank" rel="external">Hexo</a> 是一个快速、简洁且高效的静态站点生成框架，它基于 <a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a> 。 它有以下特点：</p>
 <ul>
@@ -96,21 +96,6 @@
 <li><i class="fa fa-cloud-upload"></i><h6 style="display: inline;">　一键部署</h6><br><i>只需一条指令即可部署到Github Pages，或其他网站</i></li>
 <li><i class="fa fa-cog"></i><h6 style="display: inline;">　丰富的插件</h6><br><i>Hexo 拥有强大的插件系统，安装插件可以让 Hexo 支持 Jade, CoffeeScript。</i></li>
 </ul>
-<div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
-		<script>
-			new APlayer({
-				element: document.getElementById("aplayer0"),
-				narrow: false,
-				autoplay: false,
-				showlrc: 0,
-				music: {
-					title: "HUSH",
-					author: "Lasse Lindh",
-					url: "http://opj0cbfmf.bkt.clouddn.com/Part.3%20Lasse%20Lindh%20-%20Hush.mp3",
-					pic: "http://opj0cbfmf.bkt.clouddn.com/hush.jpg",
-				}
-			});
-		</script>
 <p><img src="/img/pfasdfas.png" alt="bg-picture" title="good luck"></p>
 <a id="more"></a>
 <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>安装 Hexo 只需几分钟时间，若你在安装过程中遇到问题或无法找到解决方式，请<a href="https://neveryu.github.io/guestbook/" target="_blank" rel="external">提交问题</a>，我会尽力解决你的问题。</p>
@@ -153,21 +138,6 @@
 &lt;li&gt;&lt;i class=&quot;fa fa-cloud-upload&quot;&gt;&lt;/i&gt;&lt;h6 style=&quot;display: inline;&quot;&gt;　一键部署&lt;/h6&gt;&lt;br&gt;&lt;i&gt;只需一条指令即可部署到Github Pages，或其他网站&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&quot;fa fa-cog&quot;&gt;&lt;/i&gt;&lt;h6 style=&quot;display: inline;&quot;&gt;　丰富的插件&lt;/h6&gt;&lt;br&gt;&lt;i&gt;Hexo 拥有强大的插件系统，安装插件可以让 Hexo 支持 Jade, CoffeeScript。&lt;/i&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div id=&quot;aplayer0&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;
-		&lt;script&gt;
-			new APlayer({
-				element: document.getElementById(&quot;aplayer0&quot;),
-				narrow: false,
-				autoplay: false,
-				showlrc: 0,
-				music: {
-					title: &quot;HUSH&quot;,
-					author: &quot;Lasse Lindh&quot;,
-					url: &quot;http://opj0cbfmf.bkt.clouddn.com/Part.3%20Lasse%20Lindh%20-%20Hush.mp3&quot;,
-					pic: &quot;http://opj0cbfmf.bkt.clouddn.com/hush.jpg&quot;,
-				}
-			});
-		&lt;/script&gt;
 &lt;p&gt;&lt;img src=&quot;/img/pfasdfas.png&quot; alt=&quot;bg-picture&quot; title=&quot;good luck&quot;&gt;&lt;/p&gt;
     
     </summary>
