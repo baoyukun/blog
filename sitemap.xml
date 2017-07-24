@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/Chinese-tutorial/</loc>
+    
+    <lastmod>2017-07-24T21:26:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.baoyukun.win/Hexo/hexo-next-one/</loc>
+    
+    <lastmod>2017-07-24T21:23:42.963Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.baoyukun.win/guest/index.html</loc>
     
-    <lastmod>2017-07-24T20:40:54.726Z</lastmod>
+    <lastmod>2017-07-24T21:07:36.588Z</lastmod>
     
   </url>
   
@@ -19,27 +33,6 @@
     <loc>https://blog.baoyukun.win/categories/index.html</loc>
     
     <lastmod>2017-07-22T03:47:28.728Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.baoyukun.win/Hexo/hexo-next-one/</loc>
-    
-    <lastmod>2017-07-19T22:03:36.357Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.baoyukun.win/uncategorized/%E4%B8%96%E7%95%8C%E6%97%A9%E5%AE%89/</loc>
-    
-    <lastmod>2017-07-18T20:57:55.871Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.baoyukun.win/categories/%E7%BB%88%E4%BA%8E%E6%88%90%E5%8A%9F%E4%BA%86/</loc>
-    
-    <lastmod>2017-07-16T04:23:50.000Z</lastmod>
     
   </url>
   

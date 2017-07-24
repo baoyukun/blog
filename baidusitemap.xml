@@ -3,12 +3,31 @@
 
 
     
-    
-    
+  <url>
+    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/Chinese-tutorial/</loc>
+    <lastmod>2017-07-24T21:26:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>中文教案</title>
+        <pubTime>2017-07-24T21:26:02.000Z</pubTime>
+        
+        <tag>生活</tag>
+         
+        <tag>法语</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://blog.baoyukun.win/Hexo/hexo-next-one/</loc>
-    <lastmod>2017-07-19T22:03:36.357Z</lastmod>
+    <lastmod>2017-07-24T21:23:42.963Z</lastmod>
     <data>
         <display>
         <title>Hexo-NexT搭建个人博客（一）</title>
@@ -28,42 +47,6 @@
     </url>
 
     
-  <url>
-    <loc>https://blog.baoyukun.win/uncategorized/%E4%B8%96%E7%95%8C%E6%97%A9%E5%AE%89/</loc>
-    <lastmod>2017-07-18T20:57:55.871Z</lastmod>
-    <data>
-        <display>
-        <title>世界，早安</title>
-        <pubTime>2017-07-15T17:44:49.028Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
-  <url>
-    <loc>https://blog.baoyukun.win/categories/%E7%BB%88%E4%BA%8E%E6%88%90%E5%8A%9F%E4%BA%86/</loc>
-    <lastmod>2017-07-16T04:23:50.000Z</lastmod>
-    <data>
-        <display>
-        <title>终于成功了</title>
-        <pubTime>2017-07-16T04:23:50.000Z</pubTime>
-        
-        <tag>tag1</tag>
-         
-        <tag>tag2</tag>
-         
-        <tag>tag3</tag>
-         
-         
-           
-             
-              <breadCrumb title="categories" url="https://blog.baoyukun.win/categories/categories/"/>
-          
-        </display>
-    </data>
-    </url>
-
+    
 </urlset>
