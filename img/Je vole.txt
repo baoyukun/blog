@@ -1,28 +1,53 @@
-﻿[ti:风再起时]
-[ar:张国荣]
-[al: ]
-[00:00.00]风再起时 张国荣
-[00:14.00]曲：张国荣 词：陈少琪
-[00:17.00]我 回头再望某年
-[00:23.00]象失色照片 乍现眼前
-[00:30.00]这个茫然困惑少年
-[00:36.00]愿一生以歌 投入每天永不变
-[00:43.00]任旧日路上风声取笑我
-[00:50.00]任旧日万念俱灰也经过
-[00:57.00]我最爱的歌最后总算唱过
-[01:02.00]毋用再争取更多
-[03:18.00][01:09.00]风再起时 默默地这心不再计较与奔驰
-[03:28.00][01:19.00]我纵要依依带泪归去也愿意
-[03:34.00][01:25.00]珍贵岁月里 寻觅我心中的诗
-[03:44.00][01:34.00]风再起时 寂静夜深中想到你对我支持
-[03:55.00][01:45.00]再听见吹呼里在泣诉我谢意
-[04:01.00][01:51.00]虽已告别了 仍是有一丝暖意
-[02:27.00]我 浮沉了十数年
-[02:33.00]在星空里闪 带着惘然
-[02:39.00]请你容我别去前
-[02:47.00]赠出这阙歌 来日某天再相见
-[02:53.00]但愿用热烈掌声欢送我
-[02:59.00]在日后淡淡一生也不错
-[03:06.00]那暖暖双手最后可永远伴我
-[03:11.00]何用再得到更多
-[04:11.00]仍没有一丝悔意
+﻿[00:00.00]Je vole    Louane EMERA
+[00:02.00]曲：Michel Sardou   词：Michel Sardou
+[00:03.46]Mes chers parents je pars
+[00:08.06]Je vous aime mais je pars
+[00:12.33]Vous n'aurez plus d'enfants
+[00:15.79]Ce soir
+[00:18.31]Je ne m'enfuis pas je vole 
+[00:22.78]Comprenez bien je vole
+[00:27.12]Sans fumer, sans alcool
+[00:30.73]Je vole, je vole
+[00:35.68]Elle m'observait hier
+[00:38.16]Soucieuse, troublée, ma mère
+[00:40.07]Comme si elle le sentait
+[00:41.94]En fait elle se doutait, entendait
+[00:50.09]J'ai dit que j'étais bien
+[00:52.48]Tout à fait l'air serein
+[00:54.68]Elle a fait comme de rien
+[00:56.51]Et mon père démuni a souri
+[01:02.48]Ne pas se retourner
+[01:06.34]S'éloigner un peu plus
+[01:10.74]Il y a à Gard une autre gare
+[01:14.01]Et enfin l'Atlantique
+[01:20.65]Mes chers parents je pars
+[01:26.10]Je vous aime mais je pars
+[01:29.96]Vous n'aurez plus d'enfants
+[01:33.09]Ce soir
+[01:35.97]Je ne m'enfuis pas je vole
+[01:39.95]Comprenez bien je vole
+[01:43.93]Sans fumer, sans alcool
+[01:47.39]Je vole, je vole
+[01:51.89]Je me demande sur ma route
+[01:54.17]Si mes parents se doutent
+[01:56.36]Que mes larmes ont coulé
+[01:58.19]Mes promesses et l'envie d'avancer
+[02:05.84]Seulement croire en ma vie
+[02:08.32]Tout ce qui m'est promis
+[02:10.11]Pourquoi, où et comment
+[02:12.39]Dans ce train qui s'éloigne
+[02:15.11]Chaque instant
+[02:18.27]C'est bizarre cette cage
+[02:21.93]Qui me bloque la poitrine
+[02:26.11]Je ne peux plus respirer
+[02:29.16]Ca m'empêche de chanter
+[02:36.71]Mes chers parents je pars
+[02:42.27]Je vous aime mais je pars
+[02:46.90]Vous n'aurez plus d'enfants
+[02:50.39]Ce soir
+[02:53.15]Je ne m'enfuis pas je vole
+[02:57.51]Comprenez bien je vole
+[03:01.58]Sans fumer, sans alcool
+[03:05.02]Je vole, je vole
+[03:09.92]Lalalala
+[03:21.86]Je vole, je vole
