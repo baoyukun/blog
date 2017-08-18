@@ -27,11 +27,11 @@
 
     
   <url>
-    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/%E7%BD%AE%E9%A1%B6/gui-gu-zi/</loc>
+    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/gui-gu-zi/</loc>
     <lastmod>2017-08-14T12:13:01.000Z</lastmod>
     <data>
         <display>
-        <title>鬼谷子-书摘</title>
+        <title>【置顶】鬼谷子-书摘</title>
         <pubTime>2017-08-13T12:13:01.000Z</pubTime>
         
         <tag>生活</tag>
@@ -43,20 +43,17 @@
              
               <breadCrumb title="杂谈" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
           
-             
-              <breadCrumb title="置顶" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/%E7%BD%AE%E9%A1%B6/"/>
-          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/%E7%BD%AE%E9%A1%B6/a-writing-model/</loc>
+    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/a-writing-model/</loc>
     <lastmod>2017-08-12T16:50:01.000Z</lastmod>
     <data>
         <display>
-        <title>博客写作模板</title>
+        <title>【置顶】博客写作模板</title>
         <pubTime>2017-07-26T18:50:01.000Z</pubTime>
         
         <tag>markdown</tag>
@@ -67,9 +64,6 @@
            
              
               <breadCrumb title="技术" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-             
-              <breadCrumb title="置顶" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/%E7%BD%AE%E9%A1%B6/"/>
           
         </display>
     </data>
