@@ -3,25 +3,27 @@
 
 
     
-    
   <url>
-    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/carousel-jquery/</loc>
-    <lastmod>2017-08-19T19:15:44.000Z</lastmod>
+    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/carousel-jquery/</loc>
+    <lastmod>2017-08-24T19:15:44.000Z</lastmod>
     <data>
         <display>
-        <title>carousel-jquery</title>
-        <pubTime>2017-08-19T19:15:44.000Z</pubTime>
+        <title>轮播-简洁优雅版</title>
+        <pubTime>2017-08-24T19:15:44.000Z</pubTime>
         
         <tag>carousel</tag>
          
-        <tag>slider</tag>
-         
         <tag>jQuery</tag>
          
+        <tag>responsive</tag>
+         
          
            
              
               <breadCrumb title="技术" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="前端" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -29,52 +31,32 @@
 
     
   <url>
-    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/crop-pdf/</loc>
-    <lastmod>2017-08-14T15:31:19.000Z</lastmod>
-    <data>
-        <display>
-        <title>PDF裁剪工具</title>
-        <pubTime>2017-08-14T15:31:19.000Z</pubTime>
-        
-        <tag>tool</tag>
-         
-        <tag>project</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/gui-gu-zi/</loc>
-    <lastmod>2017-08-14T12:13:01.000Z</lastmod>
+    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/%E8%AF%BB%E4%B9%A6/gui-gu-zi/</loc>
+    <lastmod>2017-08-24T12:13:01.000Z</lastmod>
     <data>
         <display>
         <title>【置顶】鬼谷子-书摘</title>
         <pubTime>2017-08-13T12:13:01.000Z</pubTime>
         
-        <tag>生活</tag>
-         
-        <tag>读书</tag>
+        <tag>鬼谷子</tag>
          
          
            
              
               <breadCrumb title="杂谈" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
           
+             
+              <breadCrumb title="读书" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/%E8%AF%BB%E4%B9%A6/"/>
+          
         </display>
     </data>
     </url>
 
     
+    
   <url>
-    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/a-writing-model/</loc>
-    <lastmod>2017-08-12T16:50:01.000Z</lastmod>
+    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/a-writing-model/</loc>
+    <lastmod>2017-08-21T16:50:01.000Z</lastmod>
     <data>
         <display>
         <title>【置顶】博客写作模板</title>
@@ -89,27 +71,54 @@
              
               <breadCrumb title="技术" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/"/>
           
+             
+              <breadCrumb title="前端" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/"/>
+          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/chinese-tutorial/</loc>
-    <lastmod>2017-07-24T21:26:02.000Z</lastmod>
+    <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/%E5%B7%A5%E5%85%B7/crop-pdf/</loc>
+    <lastmod>2017-08-14T15:31:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>PDF裁剪工具</title>
+        <pubTime>2017-08-14T15:31:19.000Z</pubTime>
+        
+        <tag>PyPDF</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="工具" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/%E7%94%9F%E6%B4%BB/chinese-tutorial/</loc>
+    <lastmod>2017-07-25T21:26:02.000Z</lastmod>
     <data>
         <display>
         <title>中文教案</title>
         <pubTime>2017-07-24T21:26:02.000Z</pubTime>
         
-        <tag>生活</tag>
-         
-        <tag>法语</tag>
+        <tag>français</tag>
          
          
            
              
               <breadCrumb title="杂谈" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
+          
+             
+              <breadCrumb title="生活" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
