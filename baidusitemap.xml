@@ -5,15 +5,15 @@
     
   <url>
     <loc>https://blog.baoyukun.win/%E6%8A%80%E6%9C%AF/%E7%AE%97%E6%B3%95/codingforfun/</loc>
-    <lastmod>2017-09-05T21:57:16.000Z</lastmod>
+    <lastmod>2017-09-07T21:57:16.000Z</lastmod>
     <data>
         <display>
-        <title>Forfun</title>
+        <title>Coding for Fun</title>
         <pubTime>2017-09-05T21:57:16.000Z</pubTime>
         
-        <tag>算法</tag>
+        <tag>algorithm</tag>
          
-        <tag>数据结构</tag>
+        <tag>data structure</tag>
          
          
            
@@ -22,6 +22,29 @@
           
              
               <breadCrumb title="算法" url="https://blog.baoyukun.win/categories/%E6%8A%80%E6%9C%AF/%E7%AE%97%E6%B3%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/%E7%94%9F%E6%B4%BB/article-in-french/</loc>
+    <lastmod>2017-09-07T21:06:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>法语二三事</title>
+        <pubTime>2017-09-07T21:06:48.000Z</pubTime>
+        
+        <tag>français</tag>
+         
+         
+           
+             
+              <breadCrumb title="杂谈" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
+          
+             
+              <breadCrumb title="生活" url="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
