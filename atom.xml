@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.baoyukun.win/"/>
-  <updated>2017-09-07T21:06:48.000Z</updated>
+  <updated>2017-09-20T21:39:59.000Z</updated>
   <id>https://blog.baoyukun.win/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notes CS224n - NLP with Deep Learning</title>
+    <link href="https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/%E8%AF%BB%E4%B9%A6/notes-cs224n/"/>
+    <id>https://blog.baoyukun.win/杂谈/读书/notes-cs224n/</id>
+    <published>2017-09-20T21:39:59.000Z</published>
+    <updated>2017-09-20T21:39:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div class="note success"><p>A thorough introduction to cutting-edge research in deep learning applied to NLP, which covers word vector representations, window-based neural networks, recurrent neural networks, long-short-term-memory models, recursive neural networks, convolutional neural networks as well as some recent models involving a memory component.</p></div><a id="more"></a><hr><blockquote><h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p><strong><em><a href="http://web.stanford.edu/class/cs224n/" target="_blank" rel="external">Course Website</a></em></strong></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;note success&quot;&gt;&lt;p&gt;A thorough introduction to cutting-edge research in deep learning applied to NLP, which covers word vector representations, window-based neural networks, recurrent neural networks, long-short-term-memory models, recursive neural networks, convolutional neural networks as well as some recent models involving a memory component.&lt;/p&gt;&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="杂谈" scheme="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="读书" scheme="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="NLP" scheme="https://blog.baoyukun.win/tags/NLP/"/>
+    
+      <category term="deep learning" scheme="https://blog.baoyukun.win/tags/deep-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Notes CS231n - CNN for Visual Recognition</title>
+    <link href="https://blog.baoyukun.win/%E6%9D%82%E8%B0%88/%E8%AF%BB%E4%B9%A6/notes-cs231n/"/>
+    <id>https://blog.baoyukun.win/杂谈/读书/notes-cs231n/</id>
+    <published>2017-09-20T21:32:58.000Z</published>
+    <updated>2017-09-20T21:32:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div class="note success"><p>A deep dive into details of the deep learning architectures with a focus on learning end-to-end models for particularly image classification.</p></div><a id="more"></a><hr><blockquote><h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p><strong><em><a href="http://cs231n.stanford.edu/index.html" target="_blank" rel="external">Course Website</a></em></strong></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;note success&quot;&gt;&lt;p&gt;A deep dive into details of the deep learning architectures with a focus on learning end-to-end models for particularly image classification.&lt;/p&gt;&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="杂谈" scheme="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="读书" scheme="https://blog.baoyukun.win/categories/%E6%9D%82%E8%B0%88/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="CNN" scheme="https://blog.baoyukun.win/tags/CNN/"/>
+    
+      <category term="visualization" scheme="https://blog.baoyukun.win/tags/visualization/"/>
+    
+  </entry>
   
   <entry>
     <title>【置顶】法语二三事</title>
